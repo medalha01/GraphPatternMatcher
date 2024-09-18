@@ -1,0 +1,17 @@
+# Binaries for programs
+*.exe
+*.out
+*.o
+
+# Vendor directory (if using go modules)
+vendor/
+
+# IDE and editor-specific files
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Build directories
+bin/
+build/
